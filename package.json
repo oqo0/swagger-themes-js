@@ -1,0 +1,28 @@
+{
+  "name": "swagger-theme-changer",
+  "version": "1.0.0",
+  "description": "Change Swagger documentation theme easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oqo0/swagger-themes-js"
+  },
+  "keywords": [
+    "swagger",
+    "theme",
+    "themes",
+    "ui",
+    "express",
+    "swagger theme",
+    "swagger ui"
+  ],
+  "author": "oqo0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oqo0/swagger-themes-js/issues"
+  },
+  "homepage": "https://github.com/oqo0/swagger-themes-js"
+}
