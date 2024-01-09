@@ -1,6 +1,6 @@
 {
   "name": "swagger-theme-changer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change Swagger documentation theme easily",
   "main": "index.js",
   "scripts": {
